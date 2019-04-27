@@ -1,2 +1,2 @@
-# full-adder
+# calculator
 IDP
